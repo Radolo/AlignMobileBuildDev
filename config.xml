@@ -5,7 +5,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.AlignToday.AlignMobileDev"
         version   = "1.0.4"
-        versionCode ="345">
+        versionCode ="346">
 
   <name>Align DEV</name>
 
